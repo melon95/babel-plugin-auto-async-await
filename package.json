@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-auto-async-await",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A babel plugin that automatically converts normal function to async function and adds await",
   "main": "dist/index.js",
   "scripts": {
